@@ -6,10 +6,7 @@ Exercises with interactive lessons on http://nodeschool.io/#learn-you-node to le
 Specific modules are needed for some exercices:
 -----------------------------------------------
 
-- Exercice 8 :
-	use *npm install bl* for Buffer List
-	use *npm install concat-stream* for Concat-Stream
+- Exercise 8: <br/>use *npm install bl* for Buffer List<br/>use *npm install concat-stream* for Concat-Stream
 
-- Exercice 10 :
-	use *npm install net*
+- Exercise 10:<br/>use *npm install net*
 
