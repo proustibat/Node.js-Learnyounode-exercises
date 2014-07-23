@@ -7,9 +7,9 @@ Specific modules are needed for some exercices:
 -----------------------------------------------
 
 - Exercice 8 :
--- use *npm install bl* for Buffer List
--- use *npm install concat-stream* for Concat-Stream
+	use *npm install bl* for Buffer List
+	use *npm install concat-stream* for Concat-Stream
 
 - Exercice 10 :
--- use *npm install net*
+	use *npm install net*
 
