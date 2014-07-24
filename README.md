@@ -10,3 +10,5 @@ Specific modules are needed for some exercices:
 
 - Exercise 10:<br/>use *npm install net*<br/>use *npm install strftime* for second example
 
+- Exercise 11:<br/>use *npm install http*
+
