@@ -14,3 +14,7 @@ Specific modules are needed for some exercices:
 
 - Exercise 12:<br/>use *npm install through2-map*
 
+- Exercise 13:<br/>use *npm install url*
+
+
+
