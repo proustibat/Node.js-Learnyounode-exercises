@@ -18,7 +18,7 @@ Specific modules are needed for some exercices:
 
 <br/>
 
-![Hourray](https://github.com/proustibat/Node.js-Learnyounode-exercises/blob/master/hooray.png)
+![Hourray](hooray.png?raw=true)
 
 
 
