@@ -3,7 +3,7 @@ Node.js-Learnyounode-exercises
 
 Exercises with interactive lessons on http://nodeschool.io/#learn-you-node to learn Node.js.
 
-Specific modules are needed for some exercices:
+Specific modules are needed for some exercises:
 -----------------------------------------------
 
 - Exercise 8: <br/>use *npm install bl* for Buffer List<br/>use *npm install concat-stream* for Concat-Stream
