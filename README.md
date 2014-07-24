@@ -8,5 +8,5 @@ Specific modules are needed for some exercices:
 
 - Exercise 8: <br/>use *npm install bl* for Buffer List<br/>use *npm install concat-stream* for Concat-Stream
 
-- Exercise 10:<br/>use *npm install net*
+- Exercise 10:<br/>use *npm install net*<br/>use *npm install strftime* for second example
 
