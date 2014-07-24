@@ -16,7 +16,6 @@ Specific modules are needed for some exercices:
 
 - Exercise 13:<br/>use *npm install url*
 
-<br/>
 
 ![Hourray](hooray.png?raw=true)
 
