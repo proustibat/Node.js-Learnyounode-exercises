@@ -16,6 +16,11 @@ Specific modules are needed for some exercises:
 
 - Exercise 13:<br/>use *npm install url*
 
+How to use it :
+-----------------------------------------------
+- Install Learnyounode
+- Use *npm install* to install all dependencies in node_modules directory
+- Each exercise is numeroted depends on Learnyounode lessons.
 
 ![Hourray](hooray.png?raw=true)
 
