@@ -1,0 +1,23 @@
+{
+  "name": "LearnyounodeExercises",
+  "version": "1.0.0",
+  "description": "Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.",
+  "homepage": "https://github.com/embedly/embedly-node",
+  "keywords": [],
+  "author": {
+    "name": "Jennifer Proust",
+    "url": "https://github.com/proustibat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/proustibat/Node.js-Learnyounode-exercises.git"
+  },
+  "dependencies": {
+    "bl": "0.8.x",
+    "concat-stream": "1.4.x",
+    "net": "1.0.x",
+    "strftime": "0.8.x",
+    "through2-map": "1.4.x",
+    "url": "0.10.x"
+  }
+}
